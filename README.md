@@ -47,10 +47,3 @@ Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/lic
 ---
 
 **Fuente de Datos**: Ministerio de Salud de Chile. Puedes acceder a los datos originales en [este enlace](https://datos.gob.cl/dataset/defunciones-por-covid19).
-
-
-Crea una rama para tus cambios (git checkout -b feature/nueva-funcion).
-
-Realiza un pull request con una descripción clara de tus cambios.
-
-Fuente de Datos: Ministerio de Salud de Chile. Puedes acceder a los datos originales en este enlace.
