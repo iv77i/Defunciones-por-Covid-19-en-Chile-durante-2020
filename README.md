@@ -16,23 +16,8 @@ Este proyecto es útil para:
 - **Visualización intuitiva**: Facilita la interpretación de datos complejos de manera clara y visualmente atractiva.
 - **Acceso a información pública**: Democratiza el acceso a datos oficiales para ciudadanos, investigadores y periodistas.
 
-## Cómo Comenzar con el Proyecto
-1. **Descargar el archivo**:
-   - Descarga el archivo Power BI (.pbix) desde este repositorio.
-2. **Abrir el archivo**:
-   - Asegúrate de tener instalado Power BI Desktop. Puedes descargarlo [aquí](https://powerbi.microsoft.com/es-es/desktop/).
-   - Abre el archivo .pbix en Power BI Desktop.
-3. **Explorar los datos**:
-   - Utiliza los filtros interactivos para analizar los datos según tus necesidades (por sexo, comuna o región).
-
-## Ayuda y Soporte
-Si tienes preguntas o necesitas ayuda con este proyecto, puedes:
-- Crear un issue en este repositorio de GitHub.
-- Consultar la documentación de Power BI en su [sitio oficial](https://learn.microsoft.com/es-es/power-bi/).
-- Contactar al mantenedor del proyecto a través del correo proporcionado en su perfil de GitHub.
-
-## Mantenimiento y Contribuciones
-Este proyecto es mantenido por iv77i.
+## Cómo explorar los datos
+- **Ingresa al link público**: [Defunciones Covid-19 en Chile](https://app.powerbi.com/view?r=eyJrIjoiZjIxYjk2ZjktNGIzOC00OTMzLTg3MTItMzlhYmQyZGJmNzJmIiwidCI6ImZhYWIyZWQzLTBkYjYtNGU1NS05N2YyLWU5NTZhNzQ5NTU4NyIsImMiOjR9)
 
 Contribuciones son bienvenidas. Si deseas contribuir:
 1. Haz un fork del repositorio.
